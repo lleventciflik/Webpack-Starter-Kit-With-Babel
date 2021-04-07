@@ -1,5 +1,5 @@
 # Webpack-Starter-Kit-With-Babel
-Quick project creation kit with Webpack &amp; Babel 
+<b>Quick project creation kit with Webpack &amp; Babel </b>
 
 npm install
 
